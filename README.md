@@ -16,4 +16,4 @@ zig wasm example,这部分代码来自：https://github.com/shritesh/zig-wasm-do
 
 ### build zig wasm
 
-zig build-lib -O ReleaseSmall -targe wasm32-wasi -dynamic zigdom.zig
+zig build-lib -O ReleaseSmall -target wasm32-wasi -dynamic zigdom.zig
